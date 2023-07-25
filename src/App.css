@@ -1,0 +1,33 @@
+.modal_container {
+  position: absolute;
+  top: 20%;
+  right: 40%;
+}
+
+
+
+.pagination_container button{
+background:none;
+color:black;
+
+}
+
+
+
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.css-1kegznz-JoyCardOverflow-root {
+  justify-content: center;
+}
+
+.css-1ppmurr-JoyCardContent-root{
+  align-items: center;
+}
+.css-1kegznz-JoyCardOverflow-root{
+  display:flex;
+  padding:.5rem!important ;
+}
